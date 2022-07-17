@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishal-rajpoot
-- 👀 I’m interested in Frontend Development
+- 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning Full stack (MERN stck) Development
 - 💞️ I’m looking to collaborate on building projects using HTML, CSS, JavaScript, React.js.
 - 📫 How to reach me 📧
