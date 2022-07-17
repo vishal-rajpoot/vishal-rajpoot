@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishal-rajpoot
-- 👀 I’m interested in Python, C language, HTML AND CSS...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on building projects using python...
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Full stack (MERN stck) Development
+- 💞️ I’m looking to collaborate on building projects using HTML, CSS, JavaScript, React.js.
 - 📫 How to reach me 📧
 - Here is my email id- vishalrajpoot540@gmail.com
 
