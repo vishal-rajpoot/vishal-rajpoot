@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal-rajpoot
-- 👀 I’m a Frontend Developer
-- 🌱 I’m currently learning Full stack (MERN stack) Development
+- 👀 I’m a React.js Developer
+- 🌱 I’m currently working with a sofware company.
 - 💞️ I’m looking to collaborate on building projects using HTML, CSS, JavaScript, React.js.
 - 📫 How to reach me 📧
 - Here is my email id- vishalrajpoot540@gmail.com
