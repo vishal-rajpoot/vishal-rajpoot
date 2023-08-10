@@ -7,7 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/vishal__rajpoot" target="blank"><img src="https://img.shields.io/twitter/follow/vishal__rajpoot?logo=twitter&style=for-the-badge" alt="vishal__rajpoot" /></a> </p>
 
-- 🔭 I’m currently working on **The PSM**
+- 🔭 I’m currently working on **Nstack Softech LLP**
+
+- 🌱 I’m currently learning **Redis**
+
+- 🤝 I’m looking for new role **Software Developer**
+
+- 👨‍💻 All of my projects are available at [https://github.com/vishal-rajpoot/](https://github.com/vishal-rajpoot/)
+
+- 💬 Ask me about **react, node.js, mariaDB**
+
+- 📫 How to reach me **vishalrajpoot540@gmail.com**
+
+- ⚡ Fun fact **I love creating content**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
