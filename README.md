@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishal__rajpoot" target="blank"><img src="https://img.shields.io/twitter/follow/vishal__rajpoot?logo=twitter&style=for-the-badge" alt="vishal__rajpoot" /></a> </p>
 
-- 🔭 I’m currently working on **Nstack Softech LLP**
+- 🔭 I’m currently working at **Nstack Softech LLP**
 
 - 🌱 I’m currently learning **Redis**
 
