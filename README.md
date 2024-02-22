@@ -37,6 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-rajpoot&" alt="vishal-rajpoot" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vishal-rajpoot/vishal-rajpoot/output/snake.svg" alt="Snake animation" />
 
 ###
