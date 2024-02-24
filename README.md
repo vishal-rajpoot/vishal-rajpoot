@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/vishal__rajpoot" target="blank"><img src="https://img.shields.io/twitter/follow/vishal__rajpoot?logo=twitter&style=for-the-badge" alt="vishal__rajpoot" /></a> </p>
 
-- 🔭 I’m currently working at **Nstack Softech LLP**
+- 🔭 I’m currently working as a Full Stack developer at **Nstack Softech LLP**
 
 - 🌱 I’m currently learning **Redis**
 
-- 🤝 I’m looking for new role **Software Developer**
+- 🤝 I’m looking for new role as **Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishal-rajpoot/](https://github.com/vishal-rajpoot/)
 
-- 💬 Ask me about **react, node.js, mariaDB**
+- 💬 Ask me about **react, node.js, mariaDB, JavaScript**
 
 - 📫 How to reach me **vishalrajpoot540@gmail.com**
 
