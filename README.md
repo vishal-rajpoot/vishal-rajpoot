@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack developer at Nstack Softech LLP<br><br>🌱 I’m currently learning Redis<br><br>🤝 I’m looking for new role as Software Developer<br><br>👨‍💻 All of my projects are available at https://github.com/vishal-rajpoot/<br><br>💬 Ask me about react, node.js, mariaDB, JavaScript<br><br>📫 How to reach me vishalrajpoot540@gmail.com<br><br>⚡ Fun fact I love creating content
+🔭 I’m currently working as a Senior Full Stack developer at Serviots<br><br>🌱 I’m currently learning Kubernetes<br><br>🤝 I’m looking for new role as Software Developer<br><br>👨‍💻 All of my projects are available at https://github.com/vishal-rajpoot/<br><br>💬 Ask me about react, node.js, mariaDB, JavaScript<br><br>📫 How to reach me vishalrajpoot540@gmail.com<br><br>⚡ Fun fact I love creating content
 
 
 ## 🌐 Socials:
